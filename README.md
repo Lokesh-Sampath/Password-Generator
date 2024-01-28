@@ -1,4 +1,6 @@
-# Password-Generator :  password-generator-tawny-eight-68.vercel.app
+# Password-Generator
+password-generator-tawny-eight-68.vercel.app
+
 
 # React + Vite
 
